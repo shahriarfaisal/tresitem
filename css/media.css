@@ -1,0 +1,464 @@
+
+/*for extra small device*/
+
+
+
+@media(max-width:320px){
+    
+.navbar{
+    padding: 0px 10px;    
+}
+.navbar-light .navbar-toggler {
+	border-color: #2e2e2e;
+	background: #fec600;
+    outline: 0;
+}
+.contact i {
+	padding-left: 0px;
+}   
+    
+.navbar-light .navbar-nav .nav-link {
+    line-height: 30px;
+	text-align: center;
+    background: #2e2e2e;
+    margin: 0px 10px;
+    padding: 10px 0px;
+}  
+   
+.banner-main {
+	z-index: 99999;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.banner-main h2 {
+	font-size: 35px;
+	padding-top: 10px;
+}
+.banner-main h4 {
+	font-size: 30px;
+}
+.banner-main h4 span{
+	font-size: 30px;
+}
+.connect ul li {
+	padding: 20px 10px;
+	font-size: 20px;
+}
+.banner-main h1 {
+	font-size: 50px;
+}
+#section01 a span {
+	width: 14px;
+	height: 14px;
+    
+}
+#section01 a span {
+	top: 70px;
+
+}
+.steps-image i {
+	padding-left: 3px;
+	font-size: 70px;
+} 
+.steps-text p {
+	padding: 0px;
+	padding-top: 5px;
+}    
+.steps-text {
+	padding: 0px 0px;
+	width: 100%;
+}   
+.steps-text h4 {
+	font-size: 15px;
+}    
+.steps-image {
+	height: 100px;
+	width: 100px;
+}    
+.our-price {
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+}    
+.testimonials #quote-carousel p {
+	padding: 0px 35px;
+	line-height: 25px;
+}    
+#banner::before {
+	height: 35px;
+}    
+#banner::after {
+	height: 35px;
+}  
+ .title {
+	padding: 30px 0;
+}
+.title h2 {
+	font-size: 30px;
+	padding-top: 10px;
+}    
+.title h2::after {
+	bottom: -47%;
+
+} 
+.title p {
+	font-size: 20px;
+	padding-top: 30px;
+}    
+    
+ .our-progress h3 {
+	font-size: 15px;
+}    
+.our-progress h3 span {
+	font-size: 18px;
+} 
+.skillbar {
+	width: 300px;
+}  
+    
+
+.footer-left{
+    text-align: center;  
+}    
+    
+.footer-left h4 {
+	text-align: center;
+}    
+.footer-left1 p {
+	text-align: center;
+}  
+.footer-left1 h2 {
+	text-align: center;
+}   
+.footer-right1 h2 {
+	text-align: center;
+} 
+.footer-right1 ul li {
+   text-align: center;
+}
+.footer-right h2 {
+	text-align: center;
+}  
+.our-price {
+	margin: 0 25%;
+    margin-bottom: 50px;
+}
+
+}
+
+@media(min-width:321px) and (max-width:575px){
+
+.navbar{
+    padding: 0px 10px;    
+}
+.navbar-light .navbar-toggler {
+	border-color: #2e2e2e;
+	background: #fec600;
+    outline: 0;
+}
+.contact i {
+	padding-left: 0px;
+}   
+    
+.navbar-light .navbar-nav .nav-link {
+    line-height: 30px;
+	text-align: center;
+    background: #2e2e2e;
+    margin: 0px 10px;
+    padding: 10px 0px;
+}  
+   
+.banner-main {
+	padding-top: 95px;
+	padding-bottom: 0px;
+}    
+   
+.banner-main h1 {
+	font-size: 50px;   
+   
+}    
+    
+ .banner-main h4 {
+	font-size: 35px;    
+}   
+.typer {
+	font-size: 35px;
+}    
+ 
+.contact{
+        text-align: center;
+}    
+.connect ul li {
+	padding: 20px 14px;
+	font-size: 20px;
+	color: #fff;
+	transition: all linear .3s;
+	cursor: pointer;
+}    
+#section01 a span {
+	width: 14px;
+	height: 14px;
+    
+}
+#section01 a span {
+	top: 70px;
+
+}
+#banner::before {
+	height: 35px;
+}    
+#banner::after {
+	height: 35px;
+}     
+.title {
+	padding: 30px 0;
+}
+.title h2 {
+	font-size: 30px;
+	padding-top: 10px;
+}    
+.title h2::after {
+	bottom: -47%;
+
+} 
+.title p {
+	font-size: 20px;
+	padding-top: 30px;
+}    
+    
+  
+.about-write h5 {
+	font-size: 20px;
+	padding-top: 0px;
+	line-height: 35px;
+	text-align: center;
+} 
+   
+.about-write p {
+	font-size: 14px;
+	line-height: 28px;
+	padding-top: 10px;
+	padding-right: 0px;
+	text-align: center;
+}
+ 
+.about-topic-left{
+	text-align: center;
+}    
+.about-topic-right {
+    text-align: center;
+}    
+    
+.our-progress h3 {
+	font-size: 15px;
+}    
+.our-progress h3 span {
+	font-size: 18px;
+} 
+.skillbar {
+	width: 450px;
+}  
+    .our-skills{
+        padding: 0px 10px;
+    }
+.magic-part {
+	padding-top: 20px;
+}
+.magic-part p {
+	font-size: 18px;
+	line-height: 35px;
+    padding: 10px 0px;
+}  
+.service-topic {
+	padding: 10px;
+	margin: 10px 0px;
+} 
+.service-topic h4 {
+	font-size: 20px;
+}    
+.service-topic p {
+	font-size: 18px;
+}    
+.good-left-text h1 {
+	font-size: 18px;
+}    
+.good-left-text {
+	padding-top: 10px; 
+}
+.count i {
+	font-size: 30px;
+}    
+.counter {
+	font-size: 22px;
+}    
+.count h5 {
+	font-size: 15px;
+}    
+.our-price h2 {
+	font-size: 25px;
+}    
+.our-price h4 {
+	font-size: 22px;
+}    
+.our-price ul li {
+	padding-bottom: 10px;
+	font-size: 18px;
+}    
+.our-price {
+	padding: 10px;
+	padding-bottom: 10px;
+    margin-bottom: 20px;
+}    
+.testimonials #quote-carousel p {
+	padding: 10px 50px;
+	line-height: 30px;
+}    
+.hovereffect a.info{
+    padding-bottom: 10px;
+}    
+.hovereffect a.info i {
+	font-size: 12px;
+}   
+.button {
+	padding: 10px 15px;
+	margin-bottom: 10px;
+}    
+.element-item {
+	text-align: center;
+} 
+.over a i {
+	font-size: 25px;
+}    
+   
+.blog-details h3 {
+	font-size: 15px;
+	padding-top: 10px;
+}    
+.blog-details {
+	margin-bottom: 20px;
+}
+.blog-details a {
+	margin-left: 40%;
+
+}    
+.footer-left{
+    text-align: center;  
+}    
+    
+.footer-left h4 {
+	text-align: center;
+}    
+.footer-left1 p {
+	text-align: center;
+}  
+.footer-left1 h2 {
+	text-align: center;
+}   
+.footer-right1 h2 {
+	text-align: center;
+} 
+.footer-right1 ul li {
+   text-align: center;
+}
+.back-to-top {
+	right: 30px;
+	bottom: 50px;
+}
+.steps-image {
+	height: 100px;
+}    
+.steps-image i {
+	padding-left: 38px;
+    font-size: 70px;
+}    
+.steps-text {
+	padding: 0px;
+}   
+.steps-text p {
+	padding: 0px 0px;
+}    
+   
+.our-price {
+	margin-bottom: 30px;
+}
+.footer-right h2 {
+	text-align: center;
+}  
+.team-text {
+    padding:0px 10px;
+}   
+    
+ .our-price {
+	margin: 0 15%;
+    margin-bottom: 50px;
+}   
+}
+    
+
+/*for small device*/
+
+
+@media(min-width:576px) and (max-width:767px){
+    
+.navbar-light .navbar-toggler {
+	border-color: #2e2e2e;
+	background: #fec600;
+    outline: 0;
+}
+    
+.navbar-light .navbar-nav .nav-link {
+    line-height: 30px;
+	text-align: center;
+}        
+    
+.banner-main {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+.steps-text {
+	padding: 0px;
+}   
+.steps-image i {
+    padding-left: 24px;
+	font-size: 100px;
+}
+.steps-text p {
+	padding: 0px 10px;
+}    
+ 
+.our-price {
+	margin-bottom: 50px;
+    margin: 0 25%;
+}   
+.back-to-top {
+	right: 30px;
+	bottom: 50px;
+}
+.button {
+	margin-bottom: 20px;
+}
+.team-text {
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+} 
+.our-price h2 {
+	font-size: 25px;
+}    
+.our-price h4 {
+	font-size: 22px;
+}    
+.our-price ul li {
+	padding-bottom: 10px;
+}
+.blog-details a {
+	margin-left: 36%;
+
+}    
+.our-price {
+    margin-bottom: 20px;
+    
+}    
+    
+}
+    
+
